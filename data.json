@@ -16,5 +16,11 @@
     "uid": "555555555555555555",
     "img": "https://exemplo.com/banner3.png",
     "orientation": "bottom"
+  },
+  {
+    "_id": "b3b90914-7b77-4d14-b1a1-4c86bc69fe8b",
+    "uid": "1340766529653833758",
+    "img": "https://raw.githubusercontent.com/Sc-rhyan57/USERBANNER/refs/heads/main/data/1340766529653833758/banner.webp",
+    "orientation": "center"
   }
 ]
