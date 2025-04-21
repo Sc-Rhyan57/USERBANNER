@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "rhyan57",
+    "uid": "896604349311115304",
+    "img": "https://cdn.discordapp.com/avatars/1218943736575430686/3ce946c9749e10bcef38e75ded038d3f.webp?size=2048",
+    "orientation": "center"
+  },
+  {
+    "_id": "def456",
+    "uid": "987654321098765432",
+    "img": "https://exemplo.com/banner2.png",
+    "orientation": "top"
+  },
+  {
+    "_id": "ghi789",
+    "uid": "555555555555555555",
+    "img": "https://exemplo.com/banner3.png",
+    "orientation": "bottom"
+  }
+]
