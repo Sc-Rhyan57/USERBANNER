@@ -2,29 +2,17 @@
   {
     "_id": "5e948757-99a1-440c-a341-2dd546a87243",
     "uid": "896604349311115304",
-    "img": "https://raw.githubusercontent.com/Sc-rhyan57/USERBANNER/refs/heads/main/data/896604349311115304/banner.jpg",
+    "img": "https://betterbanners.vercel.app/v1/896604349311115304",
     "orientation": "center"
-  },
-  {
-    "_id": "def456",
-    "uid": "987654321098765432",
-    "img": "https://exemplo.com/banner2.png",
-    "orientation": "top"
-  },
-  {
-    "_id": "ghi789",
-    "uid": "555555555555555555",
-    "img": "https://exemplo.com/banner3.png",
-    "orientation": "bottom"
   },
   {
     "_id": "b3b90914-7b77-4d14-b1a1-4c86bc69fe8b",
     "uid": "1340766529653833758",
-    "img": "https://raw.githubusercontent.com/Sc-rhyan57/USERBANNER/refs/heads/main/data/1340766529653833758/banner.webp",
+    "img": "https://betterbanners.vercel.app/v1/1340766529653833758",
     "orientation": "center"
   },
   {
-    "_id": "616bd5c7-76f5-4202-929a-3c1047b8b2bf",
+    "_id": "01d19c7f-73ec-491a-a204-5eeb21e42d79",
     "uid": "1359701098201354281",
     "img": "https://betterbanners.vercel.app/v1/1359701098201354281",
     "orientation": "center"
